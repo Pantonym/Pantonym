@@ -22,7 +22,7 @@
 <h2 style="display: inline-block">Portfolio Project Repositories:</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <!-- Repository Card 1 -->
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; max-width: 350px; text-align: center; background-color: #f9f9f9;">
+  <div style="border: 1px solid #e1e4e8 !important; border-radius: 8px !important; padding: 20px !important; max-width: 350px !important; text-align: center !important; background-color: #f9f9f9 !important;">
     <!-- Image at the top -->
     <img src="https://raw.githubusercontent.com/Pantonym/DV300_Term1/main/spynet/src/assets/readmeAssets/Logo.png" alt="Project Logo" style="width: 100px; height: 100px; object-fit: contain; margin-bottom: 10px;" />
     <h3><a href="https://github.com/Pantonym/DV300_Term1" target="_blank" style="color: #0366d6; text-decoration: none;">SpyNet: A Crafting and Warehouse Manager</a></h3>
@@ -34,7 +34,7 @@
   </div>
 
   <!-- Repository Card 2 -->
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; max-width: 350px; text-align: center; background-color: #f9f9f9;">
+  <div style="border: 1px solid #e1e4e8 !important; border-radius: 8px !important; padding: 20px !important; max-width: 350px !important; text-align: center !important; background-color: #f9f9f9 !important;">
     <!-- Image at the top -->
     <img src="https://raw.githubusercontent.com/Pantonym/DV300Term2/main/patronage/assets/readmeAssets/Logo.jpg" alt="Project Logo" style="width: 100px; height: 100px; max-width: 100px; height: auto; margin-bottom: 10px;" />
     <h3><a href="https://github.com/Pantonym/DV300Term2" target="_blank" style="color: #0366d6; text-decoration: none;">Patronage: Writing Competitions Made Easy</a></h3>
@@ -46,7 +46,7 @@
   </div>
 
   <!-- Repository Card 3 -->
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; max-width: 350px; text-align: center; background-color: #f9f9f9;">
+  <div style="border: 1px solid #e1e4e8 !important; border-radius: 8px !important; padding: 20px !important; max-width: 350px !important; text-align: center !important; background-color: #f9f9f9 !important;">
     <!-- Image at the top -->
     <img src="https://raw.githubusercontent.com/MareliLourens/Du_Fang/main/ReadMe/Icon.png" alt="Project Logo" style="width: 100px; height: 100px;max-width: 100px; height: auto; margin-bottom: 10px;" />
     <h3><a href="https://github.com/MareliLourens/Du_Fang" target="_blank" style="color: #0366d6; text-decoration: none;">Du Fang: Cross-Platform Desktop Development</a></h3>
@@ -58,7 +58,7 @@
   </div>
 
   <!-- Repository Card 4 -->
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; max-width: 350px; text-align: center; background-color: #f9f9f9;">
+  <div style="border: 1px solid #e1e4e8 !important; border-radius: 8px !important; padding: 20px !important; max-width: 350px !important; text-align: center !important; background-color: #f9f9f9 !important;">
     <!-- Image at the top -->
     <img src="https://raw.githubusercontent.com/Pantonym/DV300Term4/main/fallen-leaves/readmeAssets/Logo.png" alt="Project Logo" style="width: 100px; height: 100px; max-width: 100px; height: auto; margin-bottom: 10px;" />
     <h3><a href="https://github.com/Pantonym/DV300Term4" target="_blank" style="color: #0366d6; text-decoration: none;">Fallen Leaves: Sustain the World</a></h3>
