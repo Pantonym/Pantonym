@@ -19,56 +19,52 @@
 
 <!-- Projects start -->
 <!-- Repository Cards Container -->
-<h2 style="display: inline-block">Portfolio Project Repositories:</h2>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <!-- Repository Card 1 -->
-  <div style="border: 1px solid #e1e4e8 !important; border-radius: 8px !important; padding: 20px !important; max-width: 350px !important; text-align: center !important; background-color: #f9f9f9 !important;">
-    <!-- Image at the top -->
-    <img src="https://raw.githubusercontent.com/Pantonym/DV300_Term1/main/spynet/src/assets/readmeAssets/Logo.png" alt="Project Logo" style="width: 100px; height: 100px; object-fit: contain; margin-bottom: 10px;" />
-    <h3><a href="https://github.com/Pantonym/DV300_Term1" target="_blank" style="color: #0366d6; text-decoration: none;">SpyNet: A Crafting and Warehouse Manager</a></h3>
-    <p style="font-size: 14px; color: #586069;">SpyNet is a management website where users can purchase ingredients and craft items using those ingredients. Each user is located by a different warehouse, meaning each warehouse tracks its inventory separately. In addition, administrators can create ingredients to be sold on the marketplace.</p>
-    <a href="https://github.com/Pantonym/DV300_Term1" target="_blank">
-      <img src="https://img.shields.io/github/last-commit/Pantonym/DV300_Term1?style=flat&label=last%20commit" alt="Last Commit badge">
-      <img src="https://img.shields.io/github/languages/code-size/Pantonym/DV300_Term1?style=flat" alt="Code Size badge">
-    </a>
-  </div>
-
-  <!-- Repository Card 2 -->
-  <div style="border: 1px solid #e1e4e8 !important; border-radius: 8px !important; padding: 20px !important; max-width: 350px !important; text-align: center !important; background-color: #f9f9f9 !important;">
-    <!-- Image at the top -->
-    <img src="https://raw.githubusercontent.com/Pantonym/DV300Term2/main/patronage/assets/readmeAssets/Logo.jpg" alt="Project Logo" style="width: 100px; height: 100px; max-width: 100px; height: auto; margin-bottom: 10px;" />
-    <h3><a href="https://github.com/Pantonym/DV300Term2" target="_blank" style="color: #0366d6; text-decoration: none;">Patronage: Writing Competitions Made Easy</a></h3>
-    <p style="font-size: 14px; color: #586069;">Patronage is a competition management mobile application where users can write stories of different genres and upload them to a leaderboard. They can then read and vote on their favourite stories using a scale of 1-10 to show how much they enjoyed each story.</p>
-    <a href="https://github.com/Pantonym/DV300Term2" target="_blank">
-      <img src="https://img.shields.io/github/last-commit/Pantonym/DV300Term2?style=flat&label=last%20commit" alt="Last Commit badge">
-      <img src="https://img.shields.io/github/languages/code-size/Pantonym/DV300Term2?style=flat" alt="Code Size badge">
-    </a>
-  </div>
-
-  <!-- Repository Card 3 -->
-  <div style="border: 1px solid #e1e4e8 !important; border-radius: 8px !important; padding: 20px !important; max-width: 350px !important; text-align: center !important; background-color: #f9f9f9 !important;">
-    <!-- Image at the top -->
-    <img src="https://raw.githubusercontent.com/MareliLourens/Du_Fang/main/ReadMe/Icon.png" alt="Project Logo" style="width: 100px; height: 100px;max-width: 100px; height: auto; margin-bottom: 10px;" />
-    <h3><a href="https://github.com/MareliLourens/Du_Fang" target="_blank" style="color: #0366d6; text-decoration: none;">Du Fang: Cross-Platform Desktop Development</a></h3>
-    <p style="font-size: 14px; color: #586069;">We developed a cross-platform desktop application that simulated an e-banking system. The project allowed account holders to manage their finances, including purchasing specific currencies, making transactions with other account holders, and withdrawing funds. The project placed a strong emphasis on secure authentication practices, including 2-factor authentication, and incorporated data summaries and visualizations to provide insights into user activity.</p>
-    <a href="https://github.com/MareliLourens/Du_Fang" target="_blank">
-      <img src="https://img.shields.io/github/last-commit/MareliLourens/Du_Fang?style=flat&label=last%20commit" alt="Last Commit badge">
-      <img src="https://img.shields.io/github/languages/code-size/MareliLourens/Du_Fang?style=flat" alt="Code Size badge">
-    </a>
-  </div>
-
-  <!-- Repository Card 4 -->
-  <div style="border: 1px solid #e1e4e8 !important; border-radius: 8px !important; padding: 20px !important; max-width: 350px !important; text-align: center !important; background-color: #f9f9f9 !important;">
-    <!-- Image at the top -->
-    <img src="https://raw.githubusercontent.com/Pantonym/DV300Term4/main/fallen-leaves/readmeAssets/Logo.png" alt="Project Logo" style="width: 100px; height: 100px; max-width: 100px; height: auto; margin-bottom: 10px;" />
-    <h3><a href="https://github.com/Pantonym/DV300Term4" target="_blank" style="color: #0366d6; text-decoration: none;">Fallen Leaves: Sustain the World</a></h3>
-    <p style="font-size: 14px; color: #586069;">Fallen Leaves is a habit tracking web application where users can add entries to different habits and complete goals generated for them based on their data. They can also view insights that were created based off their habit data.</p>
-    <a href="https://github.com/Pantonym/DV300Term4" target="_blank">
-      <img src="https://img.shields.io/github/last-commit/Pantonym/DV300Term4?style=flat&label=last%20commit" alt="Last Commit badge">
-      <img src="https://img.shields.io/github/languages/code-size/Pantonym/DV300Term4?style=flat" alt="Code Size badge">
-    </a>
-  </div>
-</div>
+<!-- Repository Cards Container -->
+<h2>Portfolio Project Repositories:</h2>
+<table width="100%" cellpadding="10" cellspacing="10">
+  <tr>
+    <!-- Repository Card 1 -->
+    <td width="25%" align="center">
+      <a href="https://github.com/Pantonym/DV300_Term1" target="_blank">
+        <img src="https://raw.githubusercontent.com/Pantonym/DV300_Term1/main/spynet/src/assets/readmeAssets/Logo.png" alt="Project Logo" width="100" height="100"/>
+        <h3>SpyNet: A Crafting and Warehouse Manager</h3>
+        <p>SpyNet is a management website where users can purchase ingredients and craft items using those ingredients...</p>
+        <img src="https://img.shields.io/github/last-commit/Pantonym/DV300_Term1?style=flat&label=last%20commit" alt="Last Commit badge">
+        <img src="https://img.shields.io/github/languages/code-size/Pantonym/DV300_Term1?style=flat" alt="Code Size badge">
+      </a>
+    </td>
+    <!-- Repository Card 2 -->
+    <td width="25%" align="center">
+      <a href="https://github.com/Pantonym/DV300Term2" target="_blank">
+        <img src="https://raw.githubusercontent.com/Pantonym/DV300Term2/main/patronage/assets/readmeAssets/Logo.jpg" alt="Project Logo" width="100" height="100"/>
+        <h3>Patronage: Writing Competitions Made Easy</h3>
+        <p>Patronage is a competition management mobile application where users can write stories...</p>
+        <img src="https://img.shields.io/github/last-commit/Pantonym/DV300Term2?style=flat&label=last%20commit" alt="Last Commit badge">
+        <img src="https://img.shields.io/github/languages/code-size/Pantonym/DV300Term2?style=flat" alt="Code Size badge">
+      </a>
+    </td>
+    <!-- Repository Card 3 -->
+    <td width="25%" align="center">
+      <a href="https://github.com/MareliLourens/Du_Fang" target="_blank">
+        <img src="https://raw.githubusercontent.com/MareliLourens/Du_Fang/main/ReadMe/Icon.png" alt="Project Logo" width="100" height="100"/>
+        <h3>Du Fang: Cross-Platform Desktop Development</h3>
+        <p>We developed a cross-platform desktop application that simulated an e-banking system...</p>
+        <img src="https://img.shields.io/github/last-commit/MareliLourens/Du_Fang?style=flat&label=last%20commit" alt="Last Commit badge">
+        <img src="https://img.shields.io/github/languages/code-size/MareliLourens/Du_Fang?style=flat" alt="Code Size badge">
+      </a>
+    </td>
+    <!-- Repository Card 4 -->
+    <td width="25%" align="center">
+      <a href="https://github.com/Pantonym/DV300Term4" target="_blank">
+        <img src="https://raw.githubusercontent.com/Pantonym/DV300Term4/main/fallen-leaves/readmeAssets/Logo.png" alt="Project Logo" width="100" height="100"/>
+        <h3>Fallen Leaves: Sustain the World</h3>
+        <p>Fallen Leaves is a habit tracking web application where users can add entries...</p>
+        <img src="https://img.shields.io/github/last-commit/Pantonym/DV300Term4?style=flat&label=last%20commit" alt="Last Commit badge">
+        <img src="https://img.shields.io/github/languages/code-size/Pantonym/DV300Term4?style=flat" alt="Code Size badge">
+      </a>
+    </td>
+  </tr>
+</table>
 <!-- Projects end -->
 
 <h2 style="display: inline-block">Github Statistics:</h2>
