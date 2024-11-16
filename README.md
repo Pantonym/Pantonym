@@ -25,7 +25,7 @@
     <!-- Repository Card 1 -->
     <td width="25%" align="center" style="background-color: white;">
       <a href="https://github.com/Pantonym/DV300_Term1" target="_blank">
-        <img src="https://raw.githubusercontent.com/Pantonym/DV300_Term1/main/spynet/src/assets/readmeAssets/Logo.png" alt="Project Logo" width="100" height="100"/>
+        <img src="https://raw.githubusercontent.com/Pantonym/DV300_Term1/main/spynet/src/assets/readmeAssets/LogoWhite.png" alt="Project Logo" width="100" height="100"/>
         <h3>SpyNet: A Crafting and Warehouse Manager</h3>
         <p>SpyNet is a management website where users can purchase ingredients and craft items using those ingredients...</p>
         <img src="https://img.shields.io/github/last-commit/Pantonym/DV300_Term1?style=flat&label=last%20commit" alt="Last Commit badge">
