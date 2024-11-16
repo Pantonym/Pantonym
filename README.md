@@ -23,7 +23,7 @@
 <table width="100%" cellpadding="10" cellspacing="10">
   <tr>
     <!-- Repository Card 1 -->
-    <td width="25%" align="center" backgroundColor="white">
+    <td width="25%" align="center" style="background-color: white;">
       <a href="https://github.com/Pantonym/DV300_Term1" target="_blank">
         <img src="https://raw.githubusercontent.com/Pantonym/DV300_Term1/main/spynet/src/assets/readmeAssets/Logo.png" alt="Project Logo" width="100" height="100"/>
         <h3>SpyNet: A Crafting and Warehouse Manager</h3>
@@ -33,7 +33,7 @@
       </a>
     </td>
     <!-- Repository Card 2 -->
-    <td width="25%" align="center" backgroundColor="white">
+    <td width="25%" align="center" style="background-color: white;">
       <a href="https://github.com/Pantonym/DV300Term2" target="_blank">
         <img src="https://raw.githubusercontent.com/Pantonym/DV300Term2/main/patronage/assets/readmeAssets/Logo.jpg" alt="Project Logo" width="100" height="100"/>
         <h3>Patronage: Writing Competitions Made Easy</h3>
@@ -43,7 +43,7 @@
       </a>
     </td>
     <!-- Repository Card 3 -->
-    <td width="25%" align="center" backgroundColor="white">
+    <td width="25%" align="center" style="background-color: white;">
       <a href="https://github.com/MareliLourens/Du_Fang" target="_blank">
         <img src="https://raw.githubusercontent.com/MareliLourens/Du_Fang/main/ReadMe/Icon.png" alt="Project Logo" width="100" height="100"/>
         <h3>Du Fang: Cross-Platform Desktop Development</h3>
@@ -53,7 +53,7 @@
       </a>
     </td>
     <!-- Repository Card 4 -->
-    <td width="25%" align="center" backgroundColor="white">
+    <td width="25%" align="center" style="background-color: white;">
       <a href="https://github.com/Pantonym/DV300Term4" target="_blank">
         <img src="https://raw.githubusercontent.com/Pantonym/DV300Term4/main/fallen-leaves/readmeAssets/Logo.png" alt="Project Logo" width="100" height="100"/>
         <h3>Fallen Leaves: Sustain the World</h3>
