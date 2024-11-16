@@ -131,11 +131,11 @@
 </div>
 
 <!-- contact links-->
-- <a href="https://nicovanwyk.github.io" target="blank" style="text-decoration: none;">nicojvanwyk03@gmail.com</a>
-
-- <a href="https://www.behance.net/nvanwyk/" target="blank" style="text-decoration: none;">Behance</a>
-
-- <a href="https://www.linkedin.com/in/nico-van-wyk-a8b0b22b1/" target="blank" style="text-decoration: none;">Linkedin</a>
+<div align="center">
+  - <a href="https://nicovanwyk.github.io" target="blank" style="text-decoration: none;">nicojvanwyk03@gmail.com</a> </br>
+  - <a href="https://www.behance.net/nvanwyk/" target="blank" style="text-decoration: none;">Behance</a></br>
+  - <a href="https://www.linkedin.com/in/nico-van-wyk-a8b0b22b1/" target="blank" style="text-decoration: none;">Linkedin</a></br>
+</div>
 
 <!--profile visit count-->
 <div align="center">
