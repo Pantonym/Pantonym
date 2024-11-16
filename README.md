@@ -1,12 +1,12 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <div align="center">
-    <h1 style="display: inline-block">Hi! I'm Nico Van Wyk <br> - <br> Full Stack Developer</h1>
+  <h1 style="display: inline-block">Hi! I'm Nico Van Wyk <br> - <br> Full Stack Developer</h1>
 </div>
 
 <!--Intro start-->
-- ❤️ What I love to work with: **React, React Native, Nodejs, FireBase**
+<h2 style="display: inline-block">Introduction to me:</h2>
+<p>I am completing my studies at Open Window, where I double major in User Experience Design and Interactive Development. I love writing and music, and play classical guitar in my free time.</p>
+
+- ❤️ What I love to work with: **React, React Native, Nodejs, Firebase**
 
 - 💡 What I'm willing to learn: **Anything!**
 
@@ -17,6 +17,61 @@
 - 🔭 And my full portfolio: **[Here!](https://nicovanwyk.github.io)**
 <!--Intro end-->
 
+<!-- Projects start -->
+<!-- Repository Cards Container -->
+<h2 style="display: inline-block">Portfolio Project Repositories:</h2>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <!-- Repository Card 1 -->
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; max-width: 350px; text-align: center; background-color: #f9f9f9;">
+    <!-- Image at the top -->
+    <img src="https://raw.githubusercontent.com/Pantonym/DV300_Term1/main/spynet/src/assets/readmeAssets/Logo.png" alt="Project Logo" style="max-width: 100px; height: auto; margin-bottom: 10px;" />
+    <h3><a href="https://github.com/Pantonym/DV300_Term1" target="_blank" style="color: #0366d6; text-decoration: none;">SpyNet: A Crafting and Warehouse Manager</a></h3>
+    <p style="font-size: 14px; color: #586069;">SpyNet is a management website where users can purchase ingredients and craft items using those ingredients. Each user is located by a different warehouse, meaning each warehouse tracks its inventory separately. In addition, administrators can create ingredients to be sold on the marketplace.</p>
+    <a href="https://github.com/Pantonym/DV300_Term1" target="_blank">
+      <img src="https://img.shields.io/github/last-commit/Pantonym/DV300_Term1?style=flat&label=last%20commit" alt="Last Commit badge">
+      <img src="https://img.shields.io/github/languages/code-size/Pantonym/DV300_Term1?style=flat" alt="Code Size badge">
+    </a>
+  </div>
+
+  <!-- Repository Card 2 -->
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; max-width: 350px; text-align: center; background-color: #f9f9f9;">
+    <!-- Image at the top -->
+    <img src="https://raw.githubusercontent.com/Pantonym/DV300Term2/main/patronage/assets/readmeAssets/Logo.jpg" alt="Project Logo" style="max-width: 100px; height: auto; margin-bottom: 10px;" />
+    <h3><a href="https://github.com/Pantonym/DV300Term2" target="_blank" style="color: #0366d6; text-decoration: none;">Patronage: Writing Competitions Made Easy</a></h3>
+    <p style="font-size: 14px; color: #586069;">Patronage is a competition management mobile application where users can write stories of different genres and upload them to a leaderboard. They can then read and vote on their favourite stories using a scale of 1-10 to show how much they enjoyed each story.</p>
+    <a href="https://github.com/Pantonym/DV300Term2" target="_blank">
+      <img src="https://img.shields.io/github/last-commit/Pantonym/DV300Term2?style=flat&label=last%20commit" alt="Last Commit badge">
+      <img src="https://img.shields.io/github/languages/code-size/Pantonym/DV300Term2?style=flat" alt="Code Size badge">
+    </a>
+  </div>
+
+  <!-- Repository Card 3 -->
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; max-width: 350px; text-align: center; background-color: #f9f9f9;">
+    <!-- Image at the top -->
+    <img src="https://raw.githubusercontent.com/MareliLourens/Du_Fang/main/ReadMe/Icon.png" alt="Project Logo" style="max-width: 100px; height: auto; margin-bottom: 10px;" />
+    <h3><a href="https://github.com/MareliLourens/Du_Fang" target="_blank" style="color: #0366d6; text-decoration: none;">Du Fang: Cross-Platform Desktop Development</a></h3>
+    <p style="font-size: 14px; color: #586069;">We developed a cross-platform desktop application that simulated an e-banking system. The project allowed account holders to manage their finances, including purchasing specific currencies, making transactions with other account holders, and withdrawing funds. The project placed a strong emphasis on secure authentication practices, including 2-factor authentication, and incorporated data summaries and visualizations to provide insights into user activity.</p>
+    <a href="https://github.com/MareliLourens/Du_Fang" target="_blank">
+      <img src="https://img.shields.io/github/last-commit/MareliLourens/Du_Fang?style=flat&label=last%20commit" alt="Last Commit badge">
+      <img src="https://img.shields.io/github/languages/code-size/MareliLourens/Du_Fang?style=flat" alt="Code Size badge">
+    </a>
+  </div>
+
+  <!-- Repository Card 4 -->
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; max-width: 350px; text-align: center; background-color: #f9f9f9;">
+    <!-- Image at the top -->
+    <img src="https://raw.githubusercontent.com/Pantonym/DV300Term4/main/fallen-leaves/readmeAssets/Logo.png" alt="Project Logo" style="max-width: 100px; height: auto; margin-bottom: 10px;" />
+    <h3><a href="https://github.com/Pantonym/DV300Term4" target="_blank" style="color: #0366d6; text-decoration: none;">Fallen Leaves: Sustain the World</a></h3>
+    <p style="font-size: 14px; color: #586069;">Fallen Leaves is a habit tracking web application where users can add entries to different habits and complete goals generated for them based on their data. They can also view insights that were created based off their habit data.</p>
+    <a href="https://github.com/Pantonym/DV300Term4" target="_blank">
+      <img src="https://img.shields.io/github/last-commit/Pantonym/DV300Term4?style=flat&label=last%20commit" alt="Last Commit badge">
+      <img src="https://img.shields.io/github/languages/code-size/Pantonym/DV300Term4?style=flat" alt="Code Size badge">
+    </a>
+  </div>
+</div>
+<!-- Projects end -->
+
+<h2 style="display: inline-block">Github Statistics:</h2>
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -46,6 +101,7 @@
 <!--- stats (end) -->
 
 <!--h1 without bottom border-->
+<h2 style="display: inline-block">My Skills:</h2>
 <div align="center">
     <h2 style="display: inline-block">⚙️ Technologies I Know ⚙️</h2>
 </div>
@@ -55,6 +111,16 @@
     <img src="https://skillicons.dev/icons?i=css,discord,postgres,express,figma,firebase,github,html,js,md,materialui,bootstrap,mongodb,mysql,nodejs,postman,py,react,ts,vscode&perline=14" />
   </a>
 </p>
+<div align="center">
+    <h2 style="display: inline-block">🧠 Soft Skills 🧠</h2>
+</div>
+
+<div align="center">
+  - Communication </br>
+  - Keeping calm in difficult situations </br>
+  - Listening </br>
+  - Implementing feedback </br>
+</div>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
@@ -65,9 +131,15 @@
 </div>
 
 <!--icons and links-->
-<p align="center">
-    <a href="https://www.linkedin.com/in/nico-van-wyk-a8b0b22b1/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-</p>
+<div align="center">
+  <p align="center">
+    <ul style="list-style-type: none; padding: 0; display: inline-block;">
+      <li><a href="https://nicovanwyk.github.io" target="blank" style="text-decoration: none;">nicojvanwyk03@gmail.com</a></li>
+      <li><a href="https://www.behance.net/nvanwyk/" target="blank" style="text-decoration: none;">Behance</a></li>
+      <li><a href="https://www.linkedin.com/in/nico-van-wyk-a8b0b22b1/" target="blank" style="text-decoration: none;">Linkedin</a></li>
+    </ul>
+  </p>
+</div>
 
 <!--profile visit count-->
 <div align="center">
@@ -75,6 +147,3 @@
 [![](https://visitcount.itsvg.in/api?id=pantonym&icon=3&color=6)](https://visitcount.itsvg.in)
 
 </div>
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
