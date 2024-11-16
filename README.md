@@ -24,7 +24,7 @@
   <!-- Repository Card 1 -->
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; max-width: 350px; text-align: center; background-color: #f9f9f9;">
     <!-- Image at the top -->
-    <img src="https://raw.githubusercontent.com/Pantonym/DV300_Term1/main/spynet/src/assets/readmeAssets/Logo.png" alt="Project Logo" style="max-width: 100px; height: auto; margin-bottom: 10px;" />
+    <img src="https://raw.githubusercontent.com/Pantonym/DV300_Term1/main/spynet/src/assets/readmeAssets/Logo.png" alt="Project Logo" style="width: 100px; height: 100px; object-fit: contain; margin-bottom: 10px;" />
     <h3><a href="https://github.com/Pantonym/DV300_Term1" target="_blank" style="color: #0366d6; text-decoration: none;">SpyNet: A Crafting and Warehouse Manager</a></h3>
     <p style="font-size: 14px; color: #586069;">SpyNet is a management website where users can purchase ingredients and craft items using those ingredients. Each user is located by a different warehouse, meaning each warehouse tracks its inventory separately. In addition, administrators can create ingredients to be sold on the marketplace.</p>
     <a href="https://github.com/Pantonym/DV300_Term1" target="_blank">
@@ -36,7 +36,7 @@
   <!-- Repository Card 2 -->
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; max-width: 350px; text-align: center; background-color: #f9f9f9;">
     <!-- Image at the top -->
-    <img src="https://raw.githubusercontent.com/Pantonym/DV300Term2/main/patronage/assets/readmeAssets/Logo.jpg" alt="Project Logo" style="max-width: 100px; height: auto; margin-bottom: 10px;" />
+    <img src="https://raw.githubusercontent.com/Pantonym/DV300Term2/main/patronage/assets/readmeAssets/Logo.jpg" alt="Project Logo" style="width: 100px; height: 100px; max-width: 100px; height: auto; margin-bottom: 10px;" />
     <h3><a href="https://github.com/Pantonym/DV300Term2" target="_blank" style="color: #0366d6; text-decoration: none;">Patronage: Writing Competitions Made Easy</a></h3>
     <p style="font-size: 14px; color: #586069;">Patronage is a competition management mobile application where users can write stories of different genres and upload them to a leaderboard. They can then read and vote on their favourite stories using a scale of 1-10 to show how much they enjoyed each story.</p>
     <a href="https://github.com/Pantonym/DV300Term2" target="_blank">
@@ -48,7 +48,7 @@
   <!-- Repository Card 3 -->
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; max-width: 350px; text-align: center; background-color: #f9f9f9;">
     <!-- Image at the top -->
-    <img src="https://raw.githubusercontent.com/MareliLourens/Du_Fang/main/ReadMe/Icon.png" alt="Project Logo" style="max-width: 100px; height: auto; margin-bottom: 10px;" />
+    <img src="https://raw.githubusercontent.com/MareliLourens/Du_Fang/main/ReadMe/Icon.png" alt="Project Logo" style="width: 100px; height: 100px;max-width: 100px; height: auto; margin-bottom: 10px;" />
     <h3><a href="https://github.com/MareliLourens/Du_Fang" target="_blank" style="color: #0366d6; text-decoration: none;">Du Fang: Cross-Platform Desktop Development</a></h3>
     <p style="font-size: 14px; color: #586069;">We developed a cross-platform desktop application that simulated an e-banking system. The project allowed account holders to manage their finances, including purchasing specific currencies, making transactions with other account holders, and withdrawing funds. The project placed a strong emphasis on secure authentication practices, including 2-factor authentication, and incorporated data summaries and visualizations to provide insights into user activity.</p>
     <a href="https://github.com/MareliLourens/Du_Fang" target="_blank">
@@ -60,7 +60,7 @@
   <!-- Repository Card 4 -->
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; max-width: 350px; text-align: center; background-color: #f9f9f9;">
     <!-- Image at the top -->
-    <img src="https://raw.githubusercontent.com/Pantonym/DV300Term4/main/fallen-leaves/readmeAssets/Logo.png" alt="Project Logo" style="max-width: 100px; height: auto; margin-bottom: 10px;" />
+    <img src="https://raw.githubusercontent.com/Pantonym/DV300Term4/main/fallen-leaves/readmeAssets/Logo.png" alt="Project Logo" style="width: 100px; height: 100px; max-width: 100px; height: auto; margin-bottom: 10px;" />
     <h3><a href="https://github.com/Pantonym/DV300Term4" target="_blank" style="color: #0366d6; text-decoration: none;">Fallen Leaves: Sustain the World</a></h3>
     <p style="font-size: 14px; color: #586069;">Fallen Leaves is a habit tracking web application where users can add entries to different habits and complete goals generated for them based on their data. They can also view insights that were created based off their habit data.</p>
     <a href="https://github.com/Pantonym/DV300Term4" target="_blank">
@@ -130,16 +130,12 @@
   </ul>
 </div>
 
-<!--icons and links-->
-<div align="center">
-  <p align="center">
-    <ul style="list-style-type: none; padding: 0; display: inline-block;">
-      <li><a href="https://nicovanwyk.github.io" target="blank" style="text-decoration: none;">nicojvanwyk03@gmail.com</a></li>
-      <li><a href="https://www.behance.net/nvanwyk/" target="blank" style="text-decoration: none;">Behance</a></li>
-      <li><a href="https://www.linkedin.com/in/nico-van-wyk-a8b0b22b1/" target="blank" style="text-decoration: none;">Linkedin</a></li>
-    </ul>
-  </p>
-</div>
+<!-- contact links-->
+- <a href="https://nicovanwyk.github.io" target="blank" style="text-decoration: none;">nicojvanwyk03@gmail.com</a>
+
+- <a href="https://www.behance.net/nvanwyk/" target="blank" style="text-decoration: none;">Behance</a>
+
+- <a href="https://www.linkedin.com/in/nico-van-wyk-a8b0b22b1/" target="blank" style="text-decoration: none;">Linkedin</a>
 
 <!--profile visit count-->
 <div align="center">
